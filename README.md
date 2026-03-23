@@ -10,6 +10,8 @@ Compare performance by gender
 Evaluate performance across degree categories
 Identify top-performing groups
 Visualize key trends for better decision-making
+
+<img src="Gallery/student Performances.png" width="600"/>
 📂 Dataset Information
 
 The dataset includes the following columns:
